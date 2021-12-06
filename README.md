@@ -1,13 +1,13 @@
 # My-portfolio 
 # This is a description of my resume.
 # Table of Content
-Description
-Installation Requirement
-Technology Used
-Reference
-Licence
-Authors Info
-Description
+*Description
+*Installation Requirement
+*Technology Used
+*Reference
+*Licence
+*Authors Info
+*Description
 This is a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.
 
 Installation

@@ -1,8 +1,8 @@
 # My-portfolio 
 # This is a description of my resume.
 # Table of Content
-*Description
-*Installation Requirement
++Description
++Installation Requirement
 *Technology Used
 *Reference
 *Licence
